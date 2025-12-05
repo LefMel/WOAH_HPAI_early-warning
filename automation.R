@@ -1,5 +1,5 @@
 setwd("/srv/shiny-server/HPAI")
-setwd("/Users/LefMel/Documents/GitHub/Tizzani_HPAI")
+setwd("/Users/LefMel/Documents/GitHub/WOAH_HPAI_early-warning")
 getwd()
 library(EVI)
 library(googledrive)
